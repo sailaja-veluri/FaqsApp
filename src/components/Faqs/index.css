@@ -1,0 +1,33 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+.faq-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 4px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  width: 90vw;
+  margin-top: 30px;
+}
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  color: #cb8805;
+  align-self: center;
+}
+
+.ul-container {
+  display: felx;
+  flex-direction: column;
+  justify-content: flex-start;
+}
